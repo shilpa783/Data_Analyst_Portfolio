@@ -39,7 +39,7 @@ The following steps were followed in this project:
 ---
 
 ## Files and Resources
-- **[Power BI Dashboard]**(https://app.powerbi.com/view?r=eyJrIjoiMzA0MTQxNDEtYjRjYy00YTMzLTgxYzQtN2IzNWQ3NmFkZDVmIiwidCI6IjY0NzI3MTZmLTI3NmUtNDMwOS04OGRlLWZhMmQ0OTMzMzFjMiJ9&pageName=e9717b0ce83babc9148c) – Interactive Dashboard  
+- **[Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzA0MTQxNDEtYjRjYy00YTMzLTgxYzQtN2IzNWQ3NmFkZDVmIiwidCI6IjY0NzI3MTZmLTI3NmUtNDMwOS04OGRlLWZhMmQ0OTMzMzFjMiJ9&pageName=e9717b0ce83babc9148c)** – Interactive Dashboard  
 
 ---
 
